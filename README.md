@@ -10,10 +10,10 @@ Este projeto foi desenvolvido durante a formação da Alura 'Melhore sua experi�
 * Interfaces
 * Polimorfirsmo
 * Decorators
-* Consumo de API externa usando fecth
+* Consumo de API externa usando fetch
 * Isolamento de serviços da API
 * Interface com Generics
-* Criaçaõ de funções utilitárias
+* Criação de funções utilitárias
 
 ## Only TypeScript
 O instrutor guiou o aprendizado sem fazer uso de frameworks, o que garantiu um melhor entendimento da linguagem TypeScript e também de como esses frameworks são feitos.
